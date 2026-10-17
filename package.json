@@ -1,0 +1,14 @@
+{
+  "name": "severo-yug",
+  "version": "1.0.0",
+  "description": "Severo-Yug browser game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^5.3.0",
+    "express-session": "^1.19.0"
+  }
+}
